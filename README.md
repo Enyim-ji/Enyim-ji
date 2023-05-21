@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ 🌱 I’m currently learning JavaScript
+ ⚡ Fun fact: learning new ideas can be both thrilling and daunting, depending on the chosen approach .
